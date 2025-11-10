@@ -17,7 +17,7 @@
 - ✅ Stable gameplay experience
 
 ### ❌ Known Issues:
-- ❌ Interface blackout after level completion (unfixable VB6/DirectDraw quirk)
+- ❌ Interface blackout after level completion (unfixable VB6/DirectDraw quirk)(only when resolution changes, you can set 640x480 and avoid it)
 
 ## 🛠️ Technical Solution
 
